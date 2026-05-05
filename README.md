@@ -1,2 +1,2 @@
 # smix repo
-Hola
+Hola, qué pasa?
